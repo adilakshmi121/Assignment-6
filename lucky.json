@@ -1,0 +1,37 @@
+[
+     {
+          "Emp1": "Adi",
+          "dob": "29/11/1994",
+          "height": "5.2",
+          "city": "Vizag",
+          "state": "Andhra pradesh"
+     },
+     {
+          "Emp2": "Lucky",
+          "dob": "16/5/1995",
+          "height": "5.5",
+          "city": "Hyderabad",
+          "state": "Telangana"
+     },
+     {
+          "Emp3": "Lakshmi",
+          "dob": "6/10/1996",
+          "height": "5.8",
+          "city": "Bangalore",
+          "state": "Karnataka"
+     },
+     {
+          "Emp4": "siddhu",
+          "dob": "30/9/1991",
+          "height": "5.9",
+          "city": "kuppam",
+          "state": "Tirupati"
+     },
+     {
+          "Emp5": "Kranthi",
+          "dob": "5/12/1997",
+          "height": "5.6",
+          "city": "rajampeta",
+          "state": "kadappa"
+     }
+]
